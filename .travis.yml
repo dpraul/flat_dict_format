@@ -10,5 +10,5 @@ python:
   - "3.6-dev" # 3.6 development branch
   - "3.7-dev" # 3.7 development branch
   - "nightly" # at time of writing, points to 3.7-dev
-install: pip install pytest pytest-cov
-script: py.test --cov=fdf tests/
+install: pip install pytest # pytest-cov
+script: py.test # --cov=fdf tests/
