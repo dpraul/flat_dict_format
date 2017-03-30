@@ -3,6 +3,8 @@
 A simple file format for when mature serialization formats (YAML, JSON, XML, etc.) are too
 restrictive and all you need is dictionaries of strings.
 
+In hindsight I have built a feature-sparse version of the INI format, so I may never come back to this.
+
 
 ## Usage
 Similar format to the JSON package.
