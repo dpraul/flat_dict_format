@@ -1,4 +1,4 @@
-# FDF: Flat Dictionary Format
+# FDF: Flat Dictionary Format [![Build Status](https://travis-ci.org/dpraul/flat_dict_format.svg?branch=master)](https://travis-ci.org/dpraul/flat_dict_format)
 
 A simple file format for when mature serialization formats (YAML, JSON, XML, etc.) are too
 restrictive and all you need is dictionaries of strings.
