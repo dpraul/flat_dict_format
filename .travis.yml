@@ -11,4 +11,4 @@ python:
   - "3.7-dev" # 3.7 development branch
   - "nightly" # at time of writing, points to 3.7-dev
 install: pip install pytest pytest-cov
-script: pytest --cov=fdf tests/
+script: py.test --cov=fdf tests/
